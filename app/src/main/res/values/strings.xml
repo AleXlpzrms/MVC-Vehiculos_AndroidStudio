@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVC_Vehiculos</string>
+    <string name="matricula">Matrícula</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="add">Añadir</string>
+    <string name="remove">Eliminar</string>
+    <string name="modificar">Modificar</string>
+</resources>
